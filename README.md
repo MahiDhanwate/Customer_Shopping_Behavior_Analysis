@@ -268,9 +268,6 @@ customer-shopping-behavior-analysis/
 ├── powerbi/
 │   └── customer_shopping_dashboard.pbix
 │
-├── reports/
-│   └── analysis_report.pdf
-│
 ├── presentation/
 │   └── project_presentation.pptx
 │
