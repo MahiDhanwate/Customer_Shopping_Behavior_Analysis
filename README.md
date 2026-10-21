@@ -173,7 +173,8 @@ Dashboard Preview
 
 Add your Power BI dashboard screenshot here.
 
-![Power BI Dashboard](images/dashboard.png)
+![Power BI Dashboard]<img width="1497" height="805" alt="Customer_Shopping_Behavior_Dashboard" src="https://github.com/user-attachments/assets/b6e568fc-933e-4578-9d37-089066585ff9" />
+
 
 📈 Key Results & Insights
 
